@@ -1,0 +1,21 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/luizoliveira/Documentos/ros2_ws/build/turtlesim_cath_them_all",
+        "/home/luizoliveira/Documentos/ros2_ws/install/turtlesim_cath_them_all/lib/python3.10/site-packages",
+        "/home/luizoliveira/Documentos/ros2_ws/build/my_py_pkg",
+        "/home/luizoliveira/Documentos/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/luizoliveira/Documentos/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/luizoliveira/Documentos/ros2_ws/build/turtlesim_cath_them_all",
+        "/home/luizoliveira/Documentos/ros2_ws/install/turtlesim_cath_them_all/lib/python3.10/site-packages",
+        "/home/luizoliveira/Documentos/ros2_ws/build/my_py_pkg",
+        "/home/luizoliveira/Documentos/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/luizoliveira/Documentos/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
